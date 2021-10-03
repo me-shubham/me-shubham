@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @me-shubham
-- 👀 I’m interested in iOS
+- 👋 Hi, I’m Shubham Singh
+- 👀 I’m interested in technology, IT, iOS, Coding.
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on iOS Project
 - 📫 How to reach me +919560160562 or shubhamiilm23@gmail.com
